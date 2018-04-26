@@ -1,0 +1,10 @@
+Package: LetterSelect
+Type: Package
+Title: Alphabet Selector
+Version: 0.1.0
+Author: Trevor Loew
+Maintainer: Trevor Loew <tloew@luc.edu>
+Description: This package contains a function that will randomly select a letter from the alphabet.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
